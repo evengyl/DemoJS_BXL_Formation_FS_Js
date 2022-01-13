@@ -44,3 +44,16 @@ Amélioration 2 : Le magasin peux recevoir des retour clients
 Amélioration 3 : gestion du stock vide
 
 Amélioration 4 : La liste des articles sera un objet JSON pré-rempli dans un fichier à part !!!!
+
+## Liste des GitHub / GitLab / Bitbucket / SourceForge des projets ##
+Pierre : 
+Morgane : 
+Hani : 
+Kevin : 
+Guillaume :
+Rachid :
+Ayan : 
+Farid :
+Jérome : 
+Benoit : 
+Olivier : 
