@@ -46,14 +46,14 @@ Amélioration 3 : gestion du stock vide
 Amélioration 4 : La liste des articles sera un objet JSON pré-rempli dans un fichier à part !!!!
 
 ## Liste des GitHub / GitLab / Bitbucket / SourceForge des projets ##
-Pierre :  https://github.com/GuillaumeDuti/waffles_vs_pancakes
-Morgane :   https://github.com/GuillaumeDuti/waffles_vs_pancakes
-Hani :   https://github.com/Hanioch/monstersAndHeroes
-Kevin :   https://github.com/GuillaumeDuti/waffles_vs_pancakes
-Guillaume :  https://github.com/GuillaumeDuti/waffles_vs_pancakes
-Rachid :  https://gitlab.com/Ataraxia88/exo-javascript-poo
-Ayan :  https://github.com/GuillaumeDuti/waffles_vs_pancakes 
-Farid :  https://gitlab.com/Faridsouda/rpg
-Jérome :   https://github.com/Jeromia2019/test
-Benoit :   https://github.com/Hanioch/monstersAndHeroes
-Olivier :   https://github.com/Hanioch/monstersAndHeroes
+Pierre :  https://github.com/GuillaumeDuti/waffles_vs_pancakes  
+Morgane :   https://github.com/GuillaumeDuti/waffles_vs_pancakes  
+Hani :   https://github.com/Hanioch/monstersAndHeroes  
+Kevin :   https://github.com/GuillaumeDuti/waffles_vs_pancakes  
+Guillaume :  https://github.com/GuillaumeDuti/waffles_vs_pancakes  
+Rachid :  https://gitlab.com/Ataraxia88/exo-javascript-poo  
+Ayan :  https://github.com/GuillaumeDuti/waffles_vs_pancakes  
+Farid :  https://gitlab.com/Faridsouda/rpg  
+Jérome :   https://github.com/Jeromia2019/test  
+Benoit :   https://github.com/Hanioch/monstersAndHeroes  
+Olivier :   https://github.com/Hanioch/monstersAndHeroes  
