@@ -74,11 +74,7 @@ var arg4 = "Male"
 
 var user = new Utilisateur("Evengyl", "baudouxloic@gmail.com", "Rue jean jaurès", 12, arg1, arg2, arg3, arg4)
 
-arg1 = "Morgane"
-arg2 = "Meganck"
-arg3 = 30
-arg4 = "Female"
-
-
 var modo = new Moderateur("Admin", "Dev", "Baudoux", "Loic", 30, "Female")
+
 console.log(user)
+console.log(modo)
